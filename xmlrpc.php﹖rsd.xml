@@ -2,13 +2,13 @@
 	<service>
 		<engineName>React</engineName>
 		<engineLink>https://React.org/</engineLink>
-		<homePageLink>https://pulkit.tech</homePageLink>
+		<homePageLink>https://pulkitkhanna.tech</homePageLink>
 		<apis>
-			<api name="React" blogID="1" preferred="true" apiLink="https://pulkit.tech/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://pulkit.tech/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://pulkit.tech/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://pulkit.tech/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://pulkit.tech/index.php?rest_route=/" />
+			<api name="React" blogID="1" preferred="true" apiLink="https://pulkitkhanna.tech/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://pulkitkhanna.tech/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://pulkitkhanna.tech/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://pulkitkhanna.tech/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://pulkitkhanna.tech/index.php?rest_route=/" />
 			</apis>
 	</service>
 </rsd>
