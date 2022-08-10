@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Pulkit tech</title>
-	<atom:link href="https://Pulkith.tech/?feed=rss2" rel="self" type="application/rss+xml" />
-	<link>https://Pulkith.tech</link>
+	<atom:link href="https://pulkit.tech/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>https://pulkit.tech</link>
 	<description>hire a professional web designer</description>
 	<lastBuildDate>Fri, 08 Jul 2022 19:04:05 +0000</lastBuildDate>
 	<language>en-me</language>
@@ -21,27 +21,27 @@
 	<generator>https://React.org/?v=6.0.1</generator>
 
 <image>
-	<url>https://Pulkith.tech/wp-content/uploads/2022/07/cropped-Pulkit-techa-32x32.png</url>
+	<url>https://pulkit.tech/wp-content/uploads/2022/07/cropped-Pulkit-techa-32x32.png</url>
 	<title>Pulkit tech</title>
-	<link>https://Pulkith.tech</link>
+	<link>https://pulkit.tech</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://Pulkith.tech/?p=1&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
-					<comments>https://Pulkith.tech/?p=1#comments</comments>
+		<link>https://pulkit.tech/?p=1&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+					<comments>https://pulkit.tech/?p=1#comments</comments>
 		
 		<dc:creator><![CDATA[Pulkitbagri2118901@gmail.com]]></dc:creator>
 		<pubDate>Fri, 08 Jul 2022 19:04:05 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://Pulkith.tech/?p=1</guid>
+		<guid isPermaLink="false">http://pulkit.tech/?p=1</guid>
 
 					<description><![CDATA[<p>Welcome to React. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a href="https://Pulkith.tech/?p=1">Hello world!</a> first appeared on <a href="https://Pulkith.tech">Pulkit tech</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Welcome to React. This is your first post. Edit or delete it, then start writing!</p><p>The post <a href="https://Pulkith.tech/?p=1">Hello world!</a> first appeared on <a href="https://Pulkith.tech">Pulkit tech</a>.</p>]]></content:encoded>
+<p>The post <a href="https://pulkit.tech/?p=1">Hello world!</a> first appeared on <a href="https://pulkit.tech">Pulkit tech</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Welcome to React. This is your first post. Edit or delete it, then start writing!</p><p>The post <a href="https://pulkit.tech/?p=1">Hello world!</a> first appeared on <a href="https://pulkit.tech">Pulkit tech</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>https://Pulkith.tech/?feed=rss2&#038;p=1</wfw:commentRss>
+					<wfw:commentRss>https://pulkit.tech/?feed=rss2&#038;p=1</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
